@@ -2,6 +2,25 @@
 * Password Generation Application Stylesheet
 */
 
+* {
+    color: black;
+}
+
 body {
+    background-image: url(/assets/images/background.jpg);
+    background-position:center center;
+    background-repeat: no-repeat;
+    background-size: stretch;
+}
+
+section {
+    width: 200px; 
+    margin: auto;
+    text-align:center;
     background-color: lightyellow;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
 }

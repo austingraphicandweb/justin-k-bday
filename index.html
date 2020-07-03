@@ -1,16 +1,28 @@
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Password Randomizer</title>
-    <link rel="stylesheet" href="/assets/style/style.css" type="text/css">
+    <link rel="stylesheet" href="/assets/style/style.css" type="text/css" />
 </head>
+
 <body>
-    <h1>Generate your password</h1>
-    <p>Justin, Happy birthday to you. I hope your day goes well and I wish you the best of success with your senior year at Georgia Tech and am keeping you in thought and prayer for your future while working your way to and through medical school. I love you and want to thank you for being an awesome brother. -Austin</p>
-    <hr>
-    <h3>So, what is this?</h3>
-    <p>Well, this is a random password generator. During my time at Georgia Tech one of the projects that I learned to program was a random password generator. So, in celebration of your birthday I am redoing the code so that it is personalized for you and works well when ever you need a secure password made up for any of your online accounts. Enjoy!</p>
+</section>
+    <!--Below is what I am bringing over from my previous password generation project-->
+    <main>
+        <section>
+            <div class="card-body">
+                <textarea readonly id="password" placeholder="Your Secure Password"
+                    aria-label="Generated Password"></textarea>
+            </div>
+            <div class="card-footer">
+                <button id="generate" class="btn">Generate Password</button>
+            </div>
+        </section>
+    </main>
+
     <script src="/assets/script/javascript.js"></script>
 </body>
+
 </html>
