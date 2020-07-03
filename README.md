@@ -12,7 +12,7 @@ link: https://austingraphicandweb.github.io/justin-k-bday/
 
 ## Screenshot
 
-![screenshot](./assets/images/screen-shot.png)
+![screenshot](screen-shot.png)
 
 
 <hr>
