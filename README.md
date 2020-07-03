@@ -7,12 +7,12 @@
 ### 1. Usage <br>
 ### 2. License<br>
 
-link: 
+link: https://austingraphicandweb.github.io/justin-k-bday/
 <hr>
 
 ## Screenshot
 
-![screenshot]()
+![screenshot](/assets/images/screen-shot.png)
 
 
 <hr>
